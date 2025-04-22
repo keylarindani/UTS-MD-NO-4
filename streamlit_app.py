@@ -26,7 +26,7 @@ class HotelBookingApp:
 
     def run(self):
         st.markdown("<h1 style='text-align: center;'>🏨 Hotel Booking Cancellation Prediction</h1>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: center;'>Prediksi apakah booking akan <b>dibatalkan</b> atau <b>tidak</b> menggunakan model XGBoost.</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: center;'>Prediksi apakah booking akan <b>dibatalkan</b> atau <b>tidak</b> menggunakan model XGBoost After Tuning.</p>", unsafe_allow_html=True)
         st.markdown("---")
 
         # Test Cases
